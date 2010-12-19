@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Tweetie Twtmore' target in the 'Tweetie Twtmore' project.
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
